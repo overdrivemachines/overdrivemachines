@@ -9,7 +9,7 @@ Web and Software Developer
 * 🖥️  See my portfolio at [dipenchauhan.com](http://dipenchauhan.com)
 * ✉️  You can contact me at [get.dipen@gmail.com](mailto:get.dipen@gmail.com)
 * 🚀  I'm currently working on [Invoice Buddy](http://invoice.dipenchauhan.com)
-* 🧠  I'm learning JavaScript, Data Structures and Algorithms
+* 🧠  I'm learning JavaScript and relearning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on interesting projects that are challenging and furthers my knowledge
 * ⚡  I’m interested in JavaScript, C++ and Ruby programming. I would love to develop software for a company that does research in genetics, defense or aerospace.
 
