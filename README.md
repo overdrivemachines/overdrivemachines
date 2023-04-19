@@ -5,11 +5,11 @@ Web and Software Developer
 --------------------------
 
 * 🌍  I'm based in Chico, CA
-* 🎓  Graduated with a BS in Computer Science from CSU Chico
+* 🎓  Graduated with a BS in Computer Science from [CSU Chico](https://www.csuchico.edu/)
 * 🖥️  See my portfolio at [dipenchauhan.com](http://dipenchauhan.com)
 * ✉️  You can contact me at [get.dipen@gmail.com](mailto:get.dipen@gmail.com)
 * 🚀  I'm currently working on [Invoice Buddy](http://invoice.dipenchauhan.com)
-* 🧠  I'm learning JavaScript and relearning Data Structures and Algorithms
+* 🧠  I'm learning React and Machine Learning
 * 🤝  I'm open to collaborating on interesting projects that are challenging and furthers my knowledge
 * ⚡  I have interests in astrophysics, genetics, defense and aviation.
 
