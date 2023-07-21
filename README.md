@@ -1,17 +1,19 @@
 Hi 👋 My name is Dipen Chauhan
 ==============================
 
-Web and Software Developer
+Software Engineer
 --------------------------
+
+Software engineer with a strong passion for creating innovative solutions and exploring the endless possibilities of code. I thrive on the challenge of turning complex problems into elegant, user-friendly applications that make a positive impact on people's lives.
 
 * 🌍  I'm based in Chico, CA
 * 🎓  Graduated with a BS in Computer Science from [CSU Chico](https://www.csuchico.edu/)
 * 🖥️  See my portfolio at [dipenchauhan.com](http://dipenchauhan.com)
 * ✉️  You can contact me at [get.dipen@gmail.com](mailto:get.dipen@gmail.com)
 * 🚀  I'm currently working on [Invoice Buddy](http://invoice.dipenchauhan.com)
-* 🧠  I'm learning React and Machine Learning
+* 🧠  I'm learning Next.js and Machine Learning
 * 🤝  I'm open to collaborating on interesting projects that are challenging and furthers my knowledge
-* ⚡  I have interests in astrophysics, genetics, defense and aviation.
+* ⚡  I have interests in genetics, defense, aviation and astrophysics.
 
 ### Skills
 
